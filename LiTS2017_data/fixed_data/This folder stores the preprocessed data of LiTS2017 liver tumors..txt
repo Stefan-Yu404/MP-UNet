@@ -1,0 +1,1 @@
+This folder stores the preprocessed data of LiTS2017 liver tumors.

@@ -1,0 +1,1 @@
+The raw data of LiTS2017 liver tumors are stored in this folder.
