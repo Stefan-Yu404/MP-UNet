@@ -1,4 +1,4 @@
-# MP-UNet
+# MPU-Net
 The code is for the article 3D Medical Image Segmentation based on multi-scale MP-UNet
 
 
@@ -16,7 +16,7 @@ The code is for the article 3D Medical Image Segmentation based on multi-scale M
 ![image](https://github.com/Stefan-Yu404/MP-UNet/assets/80494218/0226ec52-41e4-43a2-aafc-61b2eff59b18)
 
 
-# Citing MP-UNet
+# Citing MPU-Net
 If you use the code, please cite the article:
 ```
 @article{zeqiu2023MP-UNet,
